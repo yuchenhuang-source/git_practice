@@ -8,4 +8,6 @@ a
 aa
 a
 aa
-hey i am also in another machine, i will push this now
+hey i am also in another machine, i will push this now //this i just fetched 
+hi i am doing some hard work //this is mine
+this is my hard work //this is mine 
