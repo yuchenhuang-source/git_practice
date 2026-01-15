@@ -18,3 +18,6 @@ hard work
 and this shall be lost
 
 hey i do not know someone is going to wipe out my work, and i will see that my branch is not uptodate and i will update it.
+
+hey, i have no idea if anyone pushed to the remote, and i will not fetch, and i will 
+see an error, and i will force push!!yeah lets GOOOO
