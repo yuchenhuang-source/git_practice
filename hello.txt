@@ -11,3 +11,6 @@ aa
 hey i am also in another machine, i will push this now //this i just fetched 
 hi i am doing some hard work //this is mine
 this is my hard work //this is mine 
+
+hey, i have no idea if anyone pushed to the remote, and i will not fetch, and i will 
+see an error, and i will force push!!yeah lets GOOOO
